@@ -23,7 +23,7 @@ function SemiCircleDesign() {
         >
             <Box
                 component="img"
-                src="/Restaurant-Food-Menu/src/assets/kebab.jpg"  
+                src={`${import.meta.env.BASE_URL}assets/kebab.jpg`} 
                 alt="Food Item"
                 sx={{
                     width: '100%',             
