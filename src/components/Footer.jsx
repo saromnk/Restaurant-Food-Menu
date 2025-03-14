@@ -42,7 +42,7 @@ function Footer() {
                         {/* Left Image */}
                         <Box 
                             component="img" 
-                            src="./src/assets/burger.jpg"
+                            src="/Restaurant-Food-Menu/src/assets/burger.jpg"
                             alt="Food 1"
                             sx={{ 
                                 width: 120, 
@@ -55,7 +55,7 @@ function Footer() {
                         {/* Right Image */}
                         <Box 
                             component="img" 
-                            src="./src/assets/shish-kebab.jpg"
+                            src="/Restaurant-Food-Menu/src/assets/shish-kebab.jpg"
                             alt="Food 2"
                             sx={{ 
                                 width: 120, 
